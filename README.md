@@ -1,7 +1,19 @@
-### About Me:
-Hi, I'm Deserae, studying CS at UC Santa Barbara,
+<h1 align="center">Hi, I'm Deserae </h1>
 
-I'm focused on building software that's practical, secure, and genuinely useful. I work across full-stack development and AI integration, and I love turning real-world problems — like hiker safety and emergency response — into clean, functional products.
+<p align="center">
+  <em>CS Student @ UC Santa Barbara | Full Stack Developer | Building tools that solve real problems</em>
+</p>
+
+<p align="center">
+  <a href="mailto:deseraemendoza857@gmail.com"> deseraemendoza857@gmail.com</a> ·
+  <a href="https://linkedin.com/in/Deseraee"> LinkedIn</a> ·
+</p>
+
+---
+
+### About Me
+
+I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused on full-stack development, AI integration, and product engineering for real-world impact. Currently a Full Stack Intern with Sponsors for Educational Opportunity (SEO) Tech Developer program, shipping features on cross-functional agile teams.
 
 ###  Socials:
 [LinkedIn](https://linkedin.com/in/Deseraee) · [Email](mailto:deseraemendoza857@gmail.com) · [GitHub](https://github.com/Deseraee)
