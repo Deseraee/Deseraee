@@ -18,7 +18,7 @@ I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused 
 
 **What I've built**
 
-[Hiking Safety App](https://github.com/Deseraee/hiking-safety-app) — Full-stack app tackling the lack of real-time plant/animal identification for novice hikers. Architected with React (frontend), Flask (backend/API routing), and SQLite (local storage), integrating the Claude AI API and National Parks Service API. Validated with a 6-test unit suite.
+[Hiking Safety App]([https://github.com/Deseraee/hiking-safety-app](https://hectorb.pythonanywhere.com)) — Full-stack app tackling the lack of real-time plant/animal identification for novice hikers. Architected with React (frontend), Flask (backend/API routing), and SQLite (local storage), integrating the Claude AI API and National Parks Service API. Validated with a 6-test unit suite.
 
 [Empowering Her](https://github.com/Deseraee/empowering-her) — Safety web app for women built with a team using React, Node.js, and Firebase. Integrated real-time emergency alerts and resource access; I researched outdoor safety pain points and led frontend architecture.
 
