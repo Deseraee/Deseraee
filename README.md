@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Deserae
-- 👀 I’m interested in Computer science, especially the cyber security field 
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on more projects to improve my coding skills
-- 📫 How to reach me is email
+<h1 align="center">Hi, I'm Deserae Mendoza </h1>
 
-<!---
-Deseraee/Deseraee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <em>CS Student @ UC Santa Barbara | Full Stack Developer | Building tools that solve real problems</em>
+</p>
+
+<p align="center">
+  <a href="mailto:deseraemendoza857@gmail.com"> deseraemendoza857@gmail.com</a> ·
+  <a href="https://linkedin.com/in/Deseraee"> LinkedIn</a> ·
+</p>
+
+---
+
+### About Me
+
+I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), passionate about full-stack development, AI integration, and building products that make a tangible difference.
+
+---
+
+###  What I'm Working On
+
+- 
