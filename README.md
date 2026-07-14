@@ -1,35 +1,59 @@
-<h1 align="center">Hi, I'm Deserae </h1>
+### About Me:
+Hi, I'm Deserae, studying CS at UC Santa Barbara,
 
-<p align="center">
-  <em>CS Student @ UC Santa Barbara | Full Stack Developer | Building tools that solve real problems</em>
-</p>
+I'm focused on building software that's practical, secure, and genuinely useful. I work across full-stack development and AI integration, and I love turning real-world problems — like hiker safety and emergency response — into clean, functional products.
 
-<p align="center">
-  <a href="mailto:deseraemendoza857@gmail.com"> deseraemendoza857@gmail.com</a> ·
-  <a href="https://linkedin.com/in/Deseraee"> LinkedIn</a> ·
-</p>
+###  Socials:
+[LinkedIn](https://linkedin.com/in/Deseraee) · [Email](mailto:deseraemendoza857@gmail.com) · [GitHub](https://github.com/Deseraee)
+
+###  Currently Exploring
+- Full-stack app architecture (React, Flask, Django)
+- AI integration into real-world tools (Claude API, prediction pipelines)
+- Product engineering at the intersection of UX 
+
+### 🔍 Seeking Software Engineering internships for Summer 2027
 
 ---
 
-### About Me
+### Experience
 
-I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused on full-stack development, AI integration, and product engineering for real-world impact. Currently a Full Stack Intern with Sponsors for Educational Opportunity (SEO) Tech Developer program, shipping features on cross-functional agile teams.
+**Full Stack Intern** — *Sponsors for Educational Opportunity (Tech Developer)* · May 2026 – Present
+Building a full-stack project cross-functionally from ideation to delivery, using daily stand-ups and sprint planning; strengthening DSA and engineering skills through 1:1 manager check-ins and mock technical interviews.
 
+**Research Assistant** — *UCSB Early Research Scholar Program* · Sept 2025 – Present
+Pioneered a mastery-based learning transformation using PrairieLearn; ran comparative data analysis to quantify learning outcome improvements pre/post-implementation.
 
-**What I've built**
+---
 
-[Hiking Safety App](https://hectorb.pythonanywhere.com) — Full-stack app tackling the lack of real-time plant/animal identification for novice hikers. Architected with React (frontend), Flask (backend/API routing), and SQLite (local storage), integrating the Claude AI API and National Parks Service API. Validated with a 6-test unit suite.
+###  Check Out My Featured Projects
 
-[Empowering Her](https://github.com/Deseraee/empowering-her) — Safety web app for women built with a team using React, Node.js, and Firebase. Integrated real-time emergency alerts and resource access; I researched outdoor safety pain points and led frontend architecture.
+| Project | Description | Link | Tech Stack |
+|---|---|---|---|
+| **Hiking Safety App** | Real-time plant/animal ID + navigation for novice hikers, integrating Claude AI + National Parks Service APIs, validated with a 6-test unit suite | [View Repo](https://hectorb.pythonanywhere.com) | React, Flask, SQLite, Claude AI API |
+| **Empowering Her** | Safety web app for women with integrated emergency alerts and resource access | [View Repo](https://github.com/Deseraee/empowering-her) | React, Node.js, JavaScript, Firebase |
+| **SHPE Community Alert System** | Mobile prototype for community-based alerts, deployed with mentorship from an HP engineer | [View Repo](https://github.com/Deseraee/community-alert-system) | React Native, Django |
+| **PrairieLearn Research** | Comparative data analysis on student performance pre/post mastery-based learning implementation | [View Repo](https://github.com/Deseraee/prairielearn-research) | Python, PrairieLearn, Data Analysis |
+| Project 5 | Coming soon | — | — |
 
-[SHPE Innovation Program R2 — Community Alert System](https://github.com/Deseraee/community-alert-system) — Market-ready mobile prototype for community-based alerts. Built and deployed full-stack with React Native (frontend) and Django (backend) under mentorship from an HP engineer.
+---
 
-[PrairieLearn Mastery-Based Learning Study](https://github.com/Deseraee/prairielearn-research) — Research project replacing high-stakes exams with frequent low-stakes assessments via PrairieLearn. Conducted comparative data analysis on student performance pre/post-implementation as a Research Assistant at UCSB.
+### Tech Stack:
 
-**Stack**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-`C++` `Swift` `JavaScript` `Python` `HTML` `React` `React Native` `Django` `Flask` `Node.js` `Firebase` `SQLite` `Git` `Linux`
+---
 
-**Links**
-
-[deseraemendoza857@gmail.com](mailto:deseraemendoza857@gmail.com) · [LinkedIn](https://linkedin.com/in/Deseraee) ·  [GitHub](https://github.com/Deseraee)
+<p align="center"><em> B.S. Computer Science, UC Santa Barbara — Expected June 2028</em></p>
