@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deserae Mendoza </h1>
+<h1 align="center">Hi, I'm Deserae </h1>
 
 <p align="center">
   <em>CS Student @ UC Santa Barbara | Full Stack Developer | Building tools that solve real problems</em>
