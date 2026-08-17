@@ -29,10 +29,10 @@ I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused 
 
 ### Experience
 
-**Full Stack Intern** — *Sponsors for Educational Opportunity (Tech Developer)* · May 2026 – Present
+**Full Stack Intern** — *Sponsors for Educational Opportunity (Tech Developer)* · May 2026 – August 
 Building a full-stack project cross-functionally from ideation to delivery, using daily stand-ups and sprint planning; strengthening DSA and engineering skills through 1:1 manager check-ins and mock technical interviews.
 
-**Research Assistant** — *UCSB Early Research Scholar Program* · Sept 2025 – Present
+**Research Assistant** — *UCSB Early Research Scholar Program* · Sept 2025 – June
 Pioneered a mastery-based learning transformation using PrairieLearn; ran comparative data analysis to quantify learning outcome improvements pre/post-implementation.
 
 ---
