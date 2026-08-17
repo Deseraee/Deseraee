@@ -23,7 +23,7 @@ I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused 
 - AI integration into real-world tools (Claude API, prediction pipelines)
 - Product engineering at the intersection of UX 
 
-### 🔍 Seeking Software Engineering internships for Summer 2027
+### Seeking Software Engineering internships for Summer 2027
 
 ---
 
