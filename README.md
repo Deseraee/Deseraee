@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused on full-stack development, AI integration, and product engineering for real-world impact. Currently a Full Stack Intern with Sponsors for Educational Opportunity (SEO) Tech Developer program, shipping features on cross-functional agile teams.
+I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused on full-stack development, AI integration, and product engineering for real-world impact. Previously was a Full Stack Intern with Sponsors for Educational Opportunity (SEO) Tech Developer program, shipping features on cross-functional agile teams.
 
 ###  Socials:
 [LinkedIn](https://linkedin.com/in/Deseraee) · [Email](mailto:deseraemendoza857@gmail.com) · [GitHub](https://github.com/Deseraee)
