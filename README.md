@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### Facts about me!
 
 I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused on full-stack development, AI integration, and product engineering for real-world impact. Previously was a Full Stack Intern with Sponsors for Educational Opportunity (SEO) Tech Developer program, shipping features on cross-functional agile teams.
 
@@ -29,7 +29,7 @@ I'm a Computer Science student at **UC Santa Barbara** (Class of 2028), focused 
 
 ### Experience
 
-**Full Stack Intern** — *Sponsors for Educational Opportunity (Tech Developer)* · May 2026 – August 
+**Full Stack Intern** — *Sponsors for Educational Opportunity (Tech Developer)* · May 2026 – August 2026 
 Building a full-stack project cross-functionally from ideation to delivery, using daily stand-ups and sprint planning; strengthening DSA and engineering skills through 1:1 manager check-ins and mock technical interviews.
 
 **Research Assistant** — *UCSB Early Research Scholar Program* · Sept 2025 – June
@@ -37,7 +37,7 @@ Pioneered a mastery-based learning transformation using PrairieLearn; ran compar
 
 ---
 
-###  Check Out My Featured Projects
+###  Check Out My Projects
 
 | Project | Description | Link | Tech Stack |
 |---|---|---|---|
